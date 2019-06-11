@@ -39,6 +39,20 @@ ___
 [图片放大](http://bigjpg.com/)
 [PanD...](https://www.baiduwp.com)
 
+<table style="margin-left: auto; margin-right: auto;">
+<tr><!--第一行-->
+<td><!--第一格内容-->
+<a href="http://www.superlgr.com/wenku.html" target="_blank">松鼠文库</a>
+</td>
+<td><!--第二格内容-->
+<a href="http://www.yaersen.com/" target="_blank">大木虫</a>
+</td>
+<td><!--第三格内容-->
+<a href="https://greasyfork.org/zh-CN/scripts/379893" target="_blank">Tampermonkey</a>
+</td>
+</tr>
+</table>
+
 **音乐**
 [摩声](http://moresound.tk/music/)
 [MTS](http://tool.yijingying.com/musictools/)
