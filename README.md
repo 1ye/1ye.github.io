@@ -53,13 +53,13 @@ ___
 </tr>
 <tr><!--第二行-->
 <td><!--第一格内容-->
-<a href="https://www.draw.io/" target="_blank">流程图</a>
+<a href="https://chartify.io/" target="_blank">图表生成</a>
 </td>
 <td><!--第二格内容-->
-<a href="https://www.photopea.com/" target="_blank">PS</a>
+<a href="https://www.draw.io/" target="_blank">流程图</a>
 </td>
 <td><!--第三格内容-->
-<a href="https://chartify.io/" target="_blank">图表生成</a>
+<a href="https://www.photopea.com/" target="_blank">PS</a>
 </td>
 </tr>
 </table>
@@ -86,6 +86,12 @@ ___
 [52PJ](https://www.52pojie.cn/)
 [果核剥壳](https://www.ghpym.com/)
 [小兵博客](http://www.xnbing.com/)
+
+**学习**
+[医学微视](https://www.mvyxws.com/)
+[大学资源](http://www.dxzy163.com/)
+[如何吧](https://www.ruhe8.com/)
+[微软技巧](https://www.microsoft.com/zh-cn/tips/home)
 
 **必备**
 [Github](https://github.com)
