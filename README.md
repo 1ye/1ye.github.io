@@ -51,6 +51,17 @@ ___
 <a href="https://greasyfork.org/zh-CN/scripts/379893" target="_blank">Tampermonkey</a>
 </td>
 </tr>
+<tr><!--第二行-->
+<td><!--第一格内容-->
+<a href="https://www.photopea.com/" target="_blank">PS</a>
+</td>
+<td><!--第二格内容-->
+<a href="https://www.draw.io/" target="_blank">流程图</a>
+</td>
+<td><!--第三格内容-->
+<a href="https://chartify.io/" target="_blank">图表生成</a>
+</td>
+</tr>
 </table>
 
 **音乐**
